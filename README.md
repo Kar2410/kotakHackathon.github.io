@@ -25,6 +25,7 @@ open any browser and type http://localhost/kotakHackathon.github.io
 
  then login with user id:- trozenbank@gmail.com
  password:- 123
+ 
  login to admin id : trozenbank@gmail.com
  password:- admin123
 # Screenshots
