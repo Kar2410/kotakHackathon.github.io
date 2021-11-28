@@ -28,6 +28,10 @@ open any browser and type http://localhost/kotakHackathon.github.io
  
  login to admin id : trozenbank@gmail.com
  password:- admin123
+ 
+ Path to login for admin -> localhost/kotakHackathon.github.io/secured/admin/pages/
+
+
 # Screenshots
 ![Untitled](https://user-images.githubusercontent.com/56619907/143769188-0017c8fd-02ce-463d-b5c8-a272bb986cf6.png)
 ![Untitled](https://user-images.githubusercontent.com/56619907/143769299-34a72ce1-fbbb-4572-a397-4645f2ce6d67.png)
